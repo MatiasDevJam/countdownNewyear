@@ -3,4 +3,4 @@
     Original code : https://github.com/falconmasters/cuenta-regresiva.git
     Thanks to : Falconmasters
 
-https://raw.githubusercontent.com/MatiasDevJam/countdownNewyear/master/img/thumb.png
+<img src = "img/thumb.png">
